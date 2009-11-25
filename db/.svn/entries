@@ -1,0 +1,49 @@
+10
+
+dir
+64
+https://wwwsqldesigner.googlecode.com/svn/trunk/db
+https://wwwsqldesigner.googlecode.com/svn
+
+
+
+2009-11-23T13:07:37.269253Z
+64
+ondrej.zara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b267cdba-c1da-11dd-874b-8bacd04a0a74
+
+mssql
+dir
+
+sqlite
+dir
+
+sqlalchemy
+dir
+
+postgresql
+dir
+
+mysql
+dir
+
+oracle
+dir
+
+web2py
+dir
+

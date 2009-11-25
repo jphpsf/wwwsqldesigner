@@ -1,0 +1,49 @@
+10
+
+dir
+64
+https://wwwsqldesigner.googlecode.com/svn/trunk/backend
+https://wwwsqldesigner.googlecode.com/svn
+
+
+
+2009-09-03T11:22:08.628017Z
+51
+ondrej.zara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b267cdba-c1da-11dd-874b-8bacd04a0a74
+
+perl-file
+dir
+
+php-file
+dir
+
+php-mysql+file
+dir
+
+php-sqlite
+dir
+
+php-postgresql
+dir
+
+php-mysql
+dir
+
+php-blank
+dir
+
